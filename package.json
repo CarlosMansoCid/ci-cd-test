@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CarlosMansoCid/ci-cd-test/issues"
   },
-  "homepage": "https://github.com/CarlosMansoCid/ci-cd-test#readme"
+  "homepage": "https://github.com/CarlosMansoCid/ci-cd-test#readme",
+  "dependencies": {
+    "react-icons": "^4.7.1"
+  }
 }
