@@ -1,0 +1,19 @@
+{
+  "name": "ci-cd-test",
+  "version": "0.0.1",
+  "description": "ci/cd test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosMansoCid/ci-cd-test.git"
+  },
+  "author": "carlos manso cid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosMansoCid/ci-cd-test/issues"
+  },
+  "homepage": "https://github.com/CarlosMansoCid/ci-cd-test#readme"
+}
